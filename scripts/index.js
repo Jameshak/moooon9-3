@@ -49,7 +49,7 @@ x = setInterval(function() {
     hh = h / 2,
     opts = {
       strings: ['HAPPY', 'BIRTHDAY!', config.name],
-      strings: ['Wish', 'You', 'All', 'the', 'Best'],
+               ['Wish', 'You', 'All', 'the', 'Best']
       charSize: 50,
       charSpacing: 35,
       lineHeight: 60,
