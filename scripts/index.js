@@ -81,7 +81,7 @@ x = setInterval(function() {
       gravity: 0.1,
       upFlow: -0.1,
       letterContemplatingWaitTime: 420,
-      balloonSpawnTime: 25,
+      balloonSpawnTime: 35,
       balloonBaseInflateTime: 15,
       balloonAddedInflateTime: 15,
       balloonBaseSize: 20,
