@@ -48,8 +48,10 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', 'BIRTHDAY!', config.name],
-               ['Wish', 'You', 'All', 'the', 'Best']
+      strings: ['HAPPY', 'BIRTHDAY!', config.name,
+                'Wish You all the Best'
+                'Happy', 'Strong', 'Sweet'],
+               
       charSize: 50,
       charSpacing: 35,
       lineHeight: 60,
