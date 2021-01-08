@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', 'BIRTHDAY!', config.name, 'Wish You all the best'],
+      strings: ['HAPPY', 'Birthday!', config.name, 'Wish', 'You', 'all', 'the Best'],
               
 
                
@@ -499,6 +499,6 @@ x = setInterval(function() {
 
   // if (distance < 0) {
   //     clearInterval(x);
-  //     console.log("happy birthday");
+  //     console.log("Special for You");
   // }
 }, second);
