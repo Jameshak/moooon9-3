@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Jan 07, 2021',
-  name: 'Maria Rios'
+  name: '  Maria Rios'
 };
 
 function hideEverything() {
@@ -52,9 +52,9 @@ x = setInterval(function() {
               
 
                
-      charSize: 30,
-      charSpacing: 25,
-      lineHeight: 40,
+      charSize: 25,
+      charSpacing: 20,
+      lineHeight: 35,
 
       cx: w / 2,
       cy: h / 2,
